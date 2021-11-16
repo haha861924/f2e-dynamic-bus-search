@@ -1,7 +1,7 @@
 {
   "include": ["src/**/*.js"],
   "compilerOptions": {
-    "baseUrl": "./src",
+    "baseUrl": "./",
     "paths": {
       "@/*": ["./src/*"]
     }
